@@ -1,0 +1,9 @@
+com\sorin\onlineshop\model\Category$CategoryBuilder.class
+com\sorin\onlineshop\repository\CategoriesRepository.class
+com\sorin\onlineshop\model\Product$ProductBuilder.class
+com\sorin\onlineshop\model\Category.class
+com\sorin\onlineshop\ShopApplication.class
+com\sorin\onlineshop\model\ProductRequest.class
+com\sorin\onlineshop\repository\ProductsRepository.class
+com\sorin\onlineshop\controller\ProductsController.class
+com\sorin\onlineshop\model\Product.class
