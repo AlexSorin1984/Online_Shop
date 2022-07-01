@@ -27,6 +27,9 @@ public class Product {
     private String product;
     private Long price;
 
+    @Column(name = "category_id", insertable = false)
+    private Long category_id;
+
     public Product(String product, Long price) {
         this.product = product;
         this.price = price;
